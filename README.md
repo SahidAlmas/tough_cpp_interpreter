@@ -1,10 +1,12 @@
 # tough interpreter
 esoteric scritpt written in c++ 
 
-Basicc Information 
+Basic Information 
   * Best way to time waste
   * Best way to greets your friends 
-  * Surprise code * Mars Language 
+  * Surprise code 
+  * Mars Language 
+
 # some demo 
 
 we follow alphabhets order and we use some paren to look cool.
@@ -22,6 +24,14 @@ we use following items
 
 comments are followed with '#' 
 # a hello world plox 
-here you go #Start (^...)|(^)|(>..)|(>..)|(^^^)|()|(>>...)|(>^)|(>^...)|(>..)|(....) #End 
+here you go 
 
-# How to Run {WIP}
+#Start
+
+(^...)|(^)|(>..)|(>..)|(^^^)|()|(>>...)|(>^)|(>^...)|(>..)|(....) 
+
+#End 
+
+# How to Run 
+
+{WIP}
