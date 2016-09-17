@@ -22,15 +22,15 @@ we use following items
    * '^' for 5 
    * '_' for -5
 
-comments are followed with '#' 
+comments are followed with '//' 
 # a hello world plox 
 here you go 
 
-#Start
+//Start
 
 (^...)|(^)|(>..)|(>..)|(^^^)|()|(>>...)|(>^)|(>^...)|(>..)|(....) 
 
-#End 
+//End 
 
 # How to Run 
 
